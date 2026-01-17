@@ -199,50 +199,6 @@ const yogesh = {
 
 ---
 
-## 💼 Key Projects
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yogshm&repo=your-project-1&theme=tokyonight&hide_border=true)](https://github.com/Yogshm/your-project-1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yogshm&repo=your-project-2&theme=tokyonight&hide_border=true)](https://github.com/Yogshm/your-project-2)
-
-</div>
-
----
-
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- Coming soon...
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🎯 Current Focus
-
-```mermaid
-mindmap
-  root((2026 Goals))
-    Cloud Native
-      Kubernetes CKA
-      Terraform Advanced
-      Service Mesh
-    Data Engineering
-      Real-time Pipelines
-      Data Lake Architecture
-      Stream Processing
-    Healthcare IT
-      FHIR Server Development
-      HL7 Integration
-      Medical Imaging APIs
-    AI/ML
-      MLOps Pipeline
-      LLM Fine-tuning
-      Computer Vision
-```
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
