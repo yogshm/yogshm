@@ -2,13 +2,11 @@
 
 # 👋 Hi, I'm Yogesh M B
 
-### Full Stack Developer | Data Engineer | AI-ML | Healthcare IT | UI UX |
+### Full Stack Developer | DevOps Engineer | Data Engineer | Healthcare IT Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogshm)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mbyogesh07@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Yogshm&color=blueviolet&style=for-the-badge)
 
 </div>
 
@@ -100,6 +98,7 @@ const yogesh = {
 **Big Data & ETL**
 
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
