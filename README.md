@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Yogesh M B
+# 👋 Hi, I'm Yogesh M 
 
 ### Full Stack Developer | Data Engineer | AI-ML | Healthcare IT | UI UX |
 
