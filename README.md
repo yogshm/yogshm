@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Yogesh M 
+# 👋 Hi, I'm Yogesh M
 
 ### Full Stack Developer | Data Engineer | AI-ML | Healthcare IT | UI UX |
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogshm)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mbyogesh07@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yogshm.vercel.app)
 
 </div>
 
@@ -17,10 +17,11 @@
 ```typescript
 const yogesh = {
     role: "Software Engineer",
-    focus: ["Full Stack Development", "DevOps", "Data Engineering", "AI ML", "UI UX" "Healthcare IT"],
+    location: "Mysuru, Karnataka, India",
+    focus: ["Full Stack Development", "DevOps", "Data Engineering", "AI-ML", "UI UX", "Healthcare IT"],
     currentlyLearning: ["Kubernetes", "Terraform", "Apache Airflow"],
     askMeAbout: ["Web Dev", "Cloud Architecture", "FHIR", "CI/CD", "ETL Pipelines"],
-    funFact: "I automate everything that takes more than 90 seconds! ⚡"
+    funFact: "I automate everything that takes more than 90 seconds!"
 };
 ```
 
