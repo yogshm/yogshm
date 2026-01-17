@@ -17,7 +17,7 @@
 ```typescript
 const yogesh = {
     role: "Software Engineer",
-    focus: ["Full Stack Development", "DevOps", "Data Engineering", "AI ML", "UI UX" Healthcare IT"],
+    focus: ["Full Stack Development", "DevOps", "Data Engineering", "AI ML", "UI UX" "Healthcare IT"],
     currentlyLearning: ["Kubernetes", "Terraform", "Apache Airflow"],
     askMeAbout: ["Web Dev", "Cloud Architecture", "FHIR", "CI/CD", "ETL Pipelines"],
     funFact: "I automate everything that takes more than 90 seconds! ⚡"
